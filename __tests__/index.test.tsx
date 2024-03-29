@@ -102,14 +102,14 @@ describe('Unit test feedback forms @tests:KT-14', () => {
   })
 })
 
-// describe('Unit test feedback forms @tests:KT-3', () => {
-//   it('Verify form submission', () => {
-//     render(<Home />)
+describe('Unit test feedback forms @tests:KT-3', () => {
+  it('Verify form submission', () => {
+    render(<Home />)
 
-//     const heading = screen.getByRole("heading", {
-//       name: /welcome to next\.js!/i,
-//     });
+    const heading = screen.getByRole("heading", {
+      name: /welcome to next\.js!/i,
+    });
 
-//     expect(heading).toBeInTheDocument()
-//   })
-// })
+    expect(heading).toBeInTheDocument()
+  })
+})
