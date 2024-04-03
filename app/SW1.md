@@ -1,7 +1,7 @@
 ---
 itemId: sw-1
 itemType: Software Item Spec
-itemFulfills: rq-1
+itemFulfills: rq-1, DS-60
 ---
 
 # Android Client (Patient App)
