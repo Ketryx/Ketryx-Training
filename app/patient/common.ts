@@ -6,7 +6,7 @@
  * @itemTitle:"Get patient name"
  *
  */
-export function getPatientName() {
+function getPatientName() {
   return 'John Doe';
 }
 
@@ -16,7 +16,7 @@ export function getPatientName() {
  * @itemId:pat-get-address
  * @itemHasParent:sw-1
  */
-export function getPatientAddress() {
+function getPatientAddress() {
   return '123 Main St.';
 }
 

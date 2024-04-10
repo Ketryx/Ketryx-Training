@@ -5,7 +5,7 @@
  * @itemFulfills:rq-1
  * @itemTitle:"Get provider name"
  */
-export function getProviderName() {
+function getProviderName() {
     return 'Dr. John Doe';
 }
 
@@ -15,6 +15,6 @@ export function getProviderName() {
  * @itemId:prov-get-address
  * @itemHasParent:sw-1
  */
-export function getProviderAddress() {
+function getProviderAddress() {
     return '456 Elm St.';
 }
