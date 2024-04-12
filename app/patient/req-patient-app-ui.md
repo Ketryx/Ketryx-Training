@@ -4,7 +4,7 @@ itemType: Requirement
 itemHasParent: KW-2
 ---
 
-# Patient app UI (Android)
+# Patient app UI
 
 In the patient Android app, patients will be able to:
 
