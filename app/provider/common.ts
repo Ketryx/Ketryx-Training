@@ -7,7 +7,7 @@
  * The form should also have a submit button.
  *
  * @itemId:prov-get-name
- * @itemFulfills:req-patient-app-ui
+ * @itemFulfills:req-provider-app-ui
  * @itemTitle:"Feedback form"
  */
 function getProviderName() {
