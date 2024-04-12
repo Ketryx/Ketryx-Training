@@ -4,19 +4,8 @@
 import { render, screen } from "@testing-library/react";
 import Home from "@/pages/home/index";
 
-describe("Home", () => {
-  it("renders a heading", () => {
-    render(<Home />);
 
-    const heading = screen.getByRole("heading", {
-      name: /welcome to next\.js!/i,
-    });
-
-    expect(heading).toBeInTheDocument();
-  });
-});
-
-describe('Test insulin delivery status UI on Android @tests:KT-66', () => {
+describe('Test infusion limitations @tests:KXITM4MR52W3G0T97NRZKRMVDZHY7XX', () => {
   it('Transition state and keep status', () => {
     render(<Home />)
 
@@ -28,21 +17,8 @@ describe('Test insulin delivery status UI on Android @tests:KT-66', () => {
   })
 })
 
-
-// describe('Test insulin delivery status UI on iOS @tests:KT-68', () => {
-//   it('Transition state and keep status', () => {
-//     render(<Home />)
-
-//     const heading = screen.getByRole("heading", {
-//       name: /welcome to next\.js!/i,
-//     });
-
-//     expect(heading).toBeInTheDocument()
-//   })
-// })
-
-describe('Unit test for iOS Client @tests:KT-2', () => {
-  it('renders the best heading', () => {
+describe('Test warning message @tests:KXITM09D4Q0FGST9BVA61D5HYS9TSP2', () => {
+  it('Transition state and keep status', () => {
     render(<Home />)
 
     const heading = screen.getByRole("heading", {
@@ -53,20 +29,8 @@ describe('Unit test for iOS Client @tests:KT-2', () => {
   })
 })
 
-// describe('Unit test for Android Client @tests:KXITM7VNAYPPX2686NT493MKDMZRNWZ', () => {
-//   it('renders the best heading', () => {
-//     render(<Home />)
-
-//     const heading = screen.getByRole("heading", {
-//       name: /welcome to next\.js!/i,
-//     });
-
-//     expect(heading).toBeInTheDocument()
-//   })
-// })
-
-describe('Unit test for record keeping @tests:KT-98', () => {
-  it('Verify create and archive record feature', () => {
+describe('Test feedback form @tests:KXITM4P31AVZPAP9KPVZ37RQ6XP8MFH', () => {
+  it('Transition state and keep status', () => {
     render(<Home />)
 
     const heading = screen.getByRole("heading", {
@@ -77,33 +41,8 @@ describe('Unit test for record keeping @tests:KT-98', () => {
   })
 })
 
-
-describe('Unit test feedback forms @tests:KT-30', () => {
-  it('Verify form submission', () => {
-    render(<Home />)
-
-    const heading = screen.getByRole("heading", {
-      name: /welcome to next\.js!/i,
-    });
-
-    expect(heading).toBeInTheDocument()
-  })
-})
-
-describe('Unit test feedback forms @tests:KT-14', () => {
-  it('Verify form submission', () => {
-    render(<Home />)
-
-    const heading = screen.getByRole("heading", {
-      name: /welcome to next\.js!/i,
-    });
-
-    expect(heading).toBeInTheDocument()
-  })
-})
-
-describe('Unit test feedback forms @tests:KT-3', () => {
-  it('Verify form submission', () => {
+describe('Test database persistance @tests:KW-4', () => {
+  it('Transition state and keep status', () => {
     render(<Home />)
 
     const heading = screen.getByRole("heading", {
