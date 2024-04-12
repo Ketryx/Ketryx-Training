@@ -1,7 +1,7 @@
 ---
 itemId: tc-1
 itemType: Test Case
-itemTests: sw-1
+itemTests: spec-dose-reading-warning
 ---
 
 # Test infusion limitations

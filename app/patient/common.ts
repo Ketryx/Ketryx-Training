@@ -4,7 +4,7 @@
  * b) The latest entered glucose reading is outdated according to the defined maximum allowable time interval.
  *
  * @itemId:spec-dose-reading-warning
- * @itemFulfills:req-patient-app-ui
+ * @itemFulfills:req-patient-app-ui,KW-3
  * @itemTitle:"Insulin Dose and Glucose Reading Warning"
  *
  */
