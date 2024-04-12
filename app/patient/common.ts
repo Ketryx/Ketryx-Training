@@ -3,7 +3,7 @@
  * a) The recommended insulin dose exceeds the predefined upper or lower limits.
  * b) The latest entered glucose reading is outdated according to the defined maximum allowable time interval.
  *
- * @itemId:dose-reading-warning
+ * @itemId:spec-dose-reading-warning
  * @itemFulfills:req-patient-app-ui
  * @itemTitle:"Insulin Dose and Glucose Reading Warning"
  *

@@ -1,7 +1,7 @@
 ---
 itemId: tc-1
 itemType: Test Case
-itemTests: req-patient-app-ui
+itemTests: spec-dose-reading-warning
 ---
 
 # Test warning message

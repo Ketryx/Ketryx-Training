@@ -1,7 +1,7 @@
 ---
 itemId: tc-2
 itemType: Test Case
-itemTests: req-provider-app-ui
+itemTests: spec-feedback-form
 ---
 
 # Test user feedback form
