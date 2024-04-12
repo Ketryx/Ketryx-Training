@@ -1,5 +1,5 @@
 ---
-itemId: tc-1
+itemId: tc-3
 itemType: Test Case
 itemTests: spec-dose-reading-warning
 ---
