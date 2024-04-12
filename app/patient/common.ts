@@ -14,7 +14,7 @@ function getPatientName() {
  * Gets the patient address
  *
  * @itemId:pat-get-address
- * @itemHasParent:rq-1
+ * @itemFulfills:rq-1
  * @itemTitle:"Get patient address"
  *
  */
