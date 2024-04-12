@@ -13,7 +13,7 @@ function getProviderName() {
  * Returns the provider address
  *
  * @itemId:prov-get-address
- * @itemHasParent:sw-1
+ * @itemFulfills:rq-1
  */
 function getProviderAddress() {
     return '456 Elm St.';
