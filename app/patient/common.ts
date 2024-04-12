@@ -15,6 +15,8 @@ function getPatientName() {
  *
  * @itemId:pat-get-address
  * @itemHasParent:sw-1
+ * @itemTitle:"Get patient address"
+ *
  */
 function getPatientAddress() {
   return '123 Main St.';
