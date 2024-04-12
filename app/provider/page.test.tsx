@@ -4,7 +4,7 @@
 import { render, screen } from "@testing-library/react";
 import Page from "./page";
 
-it("Patient App: Works with Server Components", () => {
+it("Provider App: Works with Server Components", () => {
   render(<Page />);
-  expect(screen.getByRole("heading")).toHaveTextContent("Patient App");
+  expect(screen.getByRole("heading")).toHaveTextContent("Provider App");
 });
