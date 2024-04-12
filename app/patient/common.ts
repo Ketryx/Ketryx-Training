@@ -2,7 +2,7 @@
  * Gets the patient name
  *
  * @itemId:pat-get-name
- * @itemFulfills:rq-1
+ * @itemFulfills:req-patient-app-ui
  * @itemTitle:"Get patient name"
  *
  */
@@ -14,10 +14,9 @@ function getPatientName() {
  * Gets the patient address
  *
  * @itemId:pat-get-address
- * @itemHasParent:sw-1
+ * @itemFulfills:req-patient-app-ui
  */
 function getPatientAddress() {
   return '123 Main St.';
 }
-
 

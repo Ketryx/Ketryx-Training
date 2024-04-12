@@ -1,7 +1,7 @@
 ---
-itemId: rq-1
+itemId: req-patient-app-ui
 itemType: Requirement
-itemHasParent: KT-99
+itemHasParent: KW-2
 ---
 
 # Patient app UI (Android)
@@ -14,4 +14,3 @@ In the patient Android app, patients will be able to:
 * Read sensory readings from their glucose monitor
 * View the version of the infusion pump being used
 * See prescriptions from the provider
-
