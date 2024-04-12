@@ -8,7 +8,7 @@
  *
  * @itemId:prov-get-name
  * @itemFulfills:req-patient-app-ui
- * @itemTitle:"Get provider name"
+ * @itemTitle:"Feedback form"
  */
 function getProviderName() {
     return 'Dr. John Doe';
