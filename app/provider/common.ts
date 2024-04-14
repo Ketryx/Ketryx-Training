@@ -2,7 +2,7 @@
  * Returns the name of the provider
  *
  * @itemId:prov-get-name
- * @itemFulfills:rq-1
+ * @itemFulfills:KT-1
  * @itemTitle:"Get provider name"
  */
 function getProviderName() {
@@ -13,7 +13,7 @@ function getProviderName() {
  * Returns the provider address
  *
  * @itemId:prov-get-address
- * @itemFulfills:rq-1
+ * @itemFulfills:KT-1
  */
 function getProviderAddress() {
     return '456 Elm St.';
