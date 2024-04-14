@@ -2,7 +2,7 @@
  * Gets the patient name
  *
  * @itemId:pat-get-name
- * @itemFulfills:rq-1
+ * @itemFulfills:KT-1
  * @itemTitle:"Get patient name"
  *
  */
@@ -14,7 +14,7 @@ function getPatientName() {
  * Gets the patient address
  *
  * @itemId:pat-get-address
- * @itemHasParent:KT-2
+ * @itemHasParent:KT-1
  * @itemTitle:"Get patient address"
  *
  */
