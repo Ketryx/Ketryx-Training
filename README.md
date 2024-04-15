@@ -4,8 +4,22 @@ This is a sample repository highlighting the Ketryx features around [Git-based c
 
 The sample code itself is a tiny web application based on [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme).
 
+## Install dependencies
+
+```bash
+npm install
+```
+
 ## Running Tests
+
+Run tests in watch mode:
 
 ```bash
 npm test
+```
+
+Run tests once:
+
+```bash
+npm run test:unit-integration-ci
 ```
