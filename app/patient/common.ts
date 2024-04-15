@@ -1,5 +1,5 @@
 /**
- * Gets the patient name
+ * Gets the patient name.
  *
  * @itemId:pat-get-name
  * @itemFulfills:KT-1
@@ -11,10 +11,10 @@ function getPatientName() {
 }
 
 /**
- * Gets the patient address
+ * Gets the patient address.
  *
  * @itemId:pat-get-address
- * @itemHasParent:KT-1
+ * @itemHasParent:sw-1
  * @itemTitle:"Get patient address"
  *
  */
