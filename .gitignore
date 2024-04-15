@@ -34,4 +34,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-.idea
+
+# IntelliJ IDEA configuration files
+.idea/
+
+# Test results
+test-results/
