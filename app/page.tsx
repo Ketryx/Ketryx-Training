@@ -3,5 +3,11 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <h1>App Router</h1>;
+  return <>
+    <h1>Sample App</h1>
+    <ul>
+      <li><a href="./patient">Patient app</a></li>
+      <li><a href="./provider">Provider app</a></li>
+    </ul>
+  </>;
 }
