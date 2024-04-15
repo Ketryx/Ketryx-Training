@@ -1,32 +1,8 @@
-# Next.js + Jest
+# Ketryx Git Webinar
 
-This example shows how to configure Jest to work with Next.js.
+This is a sample repository highlighting the Ketryx features around [Git-based configuration items](https://docs.ketryx.com/manuals/man-09-git-based-configuration-items) for our [webinar about Git for IEC 62304](https://www.linkedin.com/posts/ketryx_register-today-activity-7181351604917280768-RTpJ/).
 
-This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript. This example also shows how to use Jest with the App Router and React Server Components.
-
-> **Note:** Since tests can be co-located alongside other files inside the App Router, we have placed those tests in `app/` to demonstrate this behavior (which is different than `pages/`). You can still place all tests in `__tests__` if you prefer.
-
-## Deploy your own
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-jest&project-name=with-jest&repository-name=with-jest)
-
-## How to Use
-
-Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
-
-In your terminal, run the following command:
-
-```bash
-npx create-next-app --example with-jest with-jest-app
-```
-
-```bash
-yarn create next-app --example with-jest with-jest-app
-```
-
-```bash
-pnpm create next-app --example with-jest with-jest-app
-```
+The sample code itself is a tiny web application based on [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme).
 
 ## Running Tests
 
