@@ -6,7 +6,7 @@ itemHasParent: KW-1
 
 # Provider app UI
 
-In the provider Android app, provider will be able to:
+In the provider Android app, a provider will be able to:
 
 * Review their patients' dosage history
 * Message their patients

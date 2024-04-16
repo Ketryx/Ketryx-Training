@@ -10,16 +10,5 @@
  * @itemFulfills:req-provider-app-ui
  * @itemTitle:"Feedback form"
  */
-function getProviderName() {
-    return 'Dr. John Doe';
+export default function FeedbackForm() {
 }
-
-// /**
-//  * Returns the provider address
-//  *
-//  * @itemId:prov-get-address
-//  * @itemFulfills:req-patient-app-ui
-//  */
-// function getProviderAddress() {
-//     return '456 Elm St.';
-// }

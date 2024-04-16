@@ -6,19 +6,7 @@
  * @itemId:spec-dose-reading-warning
  * @itemFulfills:req-patient-app-ui,KW-3
  * @itemTitle:"Insulin Dose and Glucose Reading Warning"
- *
  */
-function getPatientName() {
-  return 'John Doe';
+export function createDoseWarning() {
 }
-
-// /**
-//  * Gets the patient address
-//  *
-//  * @itemId:pat-get-address
-//  * @itemFulfills:sw-1
-//  */
-// function getPatientAddress() {
-//   return '123 Main St.';
-// }
 
