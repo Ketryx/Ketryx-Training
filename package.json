@@ -10,6 +10,7 @@
     "test:unit-integration-ci": "JEST_JUNIT_OUTPUT_DIR=test-results JEST_JUNIT_OUTPUT_NAME=jest-junit.xml jest --watchAll=false --testResultsProcessor=\"jest-junit\""
   },
   "dependencies": {
+    "@swc/core": "^1.4.14",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
