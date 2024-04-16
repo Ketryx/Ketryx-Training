@@ -6,6 +6,7 @@ env:
       (github.event_name == 'push' || github.event_name == 'workflow_dispatch') &&
       (
         github.ref == 'refs/heads/main'||
+        github.ref == 'refs/heads/miland/cucumber_debug'||
         github.ref == 'refs/heads/production'
       )
     }}
