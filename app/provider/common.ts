@@ -3,6 +3,7 @@
  *
  * @itemId:prov-get-name
  * @itemHasParent:KT-95
+ * @itemFulfills:KT-19
  * @itemTitle:"Get provider name"
  */
 function getProviderName() {
@@ -14,6 +15,7 @@ function getProviderName() {
  *
  * @itemId:prov-get-address
  * @itemHasParent:KT-95
+ * @itemFulfills:KT-19
  */
 function getProviderAddress() {
     return '456 Elm St.';
