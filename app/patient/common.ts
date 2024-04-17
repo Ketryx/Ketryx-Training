@@ -2,7 +2,6 @@
  * Gets the patient name.
  *
  * @itemId:pat-get-name
- * @itemFulfills:KT-1
  * @itemHasParent:KT-95
  * @itemTitle:"Get patient name"
  *
