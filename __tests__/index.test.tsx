@@ -16,7 +16,7 @@ describe("Home", () => {
   });
 });
 
-describe('Test insulin delivery status UI on Android @tests:KT-66', () => {
+describe('Test insulin delivery status UI (@tests:KT-66) and dose UI (@tests:KT-68)', () => {
   it('Transition state and keep status', () => {
     render(<Home />)
 
