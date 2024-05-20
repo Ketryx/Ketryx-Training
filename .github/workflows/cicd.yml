@@ -13,7 +13,7 @@ on:
   push:
     branches:
       - production
-      - '*'
+      - '**'
 
 jobs:
   test-unit-integration:
