@@ -1,11 +1,22 @@
 ---
-itemId: sw-1
-itemType: Software Item Spec
-itemFulfills: rq-1
-itemUses: KD-31
+itemId: risk-RISK1-git
+itemType: Risk
 ---
 
-# Android Client (Patient App)
+# RISK1 git based risk
 
-The Android client is written as a native app in Kotlin and optimized for Android version 14+ on a 19.9-inch generation Samsung Galaxy Tab S9. Some other edit.
+RISK1 description based on git md file...
 
+## Item fields
+
+### Hazard
+
+Description of Hazard for RISK1
+
+### Hazardous situation
+
+Description of Hazardous situation for RISK1
+
+### Sequence of events
+
+Description of Sequence of events for RISK1
